@@ -147,8 +147,8 @@ phase — a nice hook for a future `/admin` page.
 
 ## Live Demo
 
-_Add your deployed Vercel URL here after deployment._
+https://travel-unbounded-beige.vercel.app/
 
 ## GitHub
 
-_Add your repository URL here._
+https://github.com/prateek2004sahu/travel-unbounded
